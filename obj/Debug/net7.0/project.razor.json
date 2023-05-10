@@ -18645,6 +18645,11 @@
   "RootNamespace": "RpgMvc",
   "Documents": [
     {
+      "FilePath": "d:\\breno\\dsI\\RpgMvc\\Views\\Usuarios\\AutenticarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\AutenticarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\breno\\dsI\\RpgMvc\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
